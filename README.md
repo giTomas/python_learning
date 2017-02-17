@@ -37,3 +37,9 @@ http://python-3-patterns-idioms-test.readthedocs.io/en/latest/StateMachine.html
 #Nginx
 
 https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04
+
+#Djangp
+
+https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/django
+
+http://www.tangowithdjango.com/book17/
