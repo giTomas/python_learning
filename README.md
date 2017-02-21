@@ -46,9 +46,6 @@ http://docs.python-requests.org/en/latest/index.html
 
 http://www.secnetix.de/olli/Python/lambda_functions.hawk
 
-#State
-
-http://python-3-patterns-idioms-test.readthedocs.io/en/latest/StateMachine.html
 
 #Nginx
 
@@ -57,6 +54,14 @@ https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-
 #OOP
 
 https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+
+#Serialization
+
+https://docs.python.org/2/library/pickle.html#module-pickle
+
+#State
+
+http://python-3-patterns-idioms-test.readthedocs.io/en/latest/StateMachine.html
 
 #URLIB
 
@@ -69,6 +74,10 @@ https://docs.python.org/2/library/subprocess.html#module-subprocess
 #DATETIME
 
 https://docs.python.org/2/library/datetime.html
+
+#testing
+
+http://ivory.idyll.org/articles/nose-intro.html
 
 -----------
 #HOWTO
