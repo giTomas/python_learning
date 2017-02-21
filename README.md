@@ -4,9 +4,7 @@ python scripts
 
 # resources - general
 
-http://www.python-course.eu/variables.php
-
-http://www.secnetix.de/olli/Python/lambda_functions.hawk
+http://www.python-course.eu/course.php
 
 https://rxpy.codeplex.com/
 
@@ -18,17 +16,35 @@ https://developers.google.com/edu/python/introduction
 
 http://docs.python-guide.org/en/latest/
 
+http://docs.python-guide.org/en/latest/
+
+https://www.stavros.io/tutorials/python/
+
+https://developers.google.com/edu/python/introduction
+
 #Api
 
 https://www.fullstackpython.com/api-creation.html
 
-#JSON
+#AUTOMATIZATION WITH PYTHON
 
-http://stackoverflow.com/questions/23110383/how-to-dynamically-build-a-json-object-with-python
+https://automatetheboringstuff.com/#toc
+
+
+#Django
+
+https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/django
+
+http://www.tangowithdjango.com/book17/
 
 #HTTP
 
 http://docs.python-requests.org/en/latest/index.html
+
+
+#LAMBDAS
+
+http://www.secnetix.de/olli/Python/lambda_functions.hawk
 
 #State
 
@@ -38,8 +54,30 @@ http://python-3-patterns-idioms-test.readthedocs.io/en/latest/StateMachine.html
 
 https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04
 
-#Djangp
+#OOP
 
-https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/django
+https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
 
-http://www.tangowithdjango.com/book17/
+#URLIB
+
+https://docs.python.org/2/library/urllib.html
+
+#EXTERNAL COMMANDS
+
+https://docs.python.org/2/library/subprocess.html#module-subprocess
+
+#DATETIME
+
+https://docs.python.org/2/library/datetime.html
+
+-----------
+#HOWTO
+-----------
+
+#check if file exists
+
+http://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-using-python
+
+#create JSON
+
+http://stackoverflow.com/questions/23110383/how-to-dynamically-build-a-json-object-with-python
