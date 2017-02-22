@@ -55,6 +55,12 @@ https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-
 
 https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
 
+#Regular Expression
+
+http://www.python-course.eu/re.php
+
+https://developers.google.com/edu/python/regular-expressio
+
 #Serialization
 
 https://docs.python.org/2/library/pickle.html#module-pickle
