@@ -1,7 +1,6 @@
 # python_learning
 python scripts
 
-
 # resources - general
 
 http://www.python-course.eu/course.php
@@ -37,6 +36,10 @@ https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/d
 
 http://www.tangowithdjango.com/book17/
 
+#FP
+
+https://docs.python.org/2/library/functools.html
+
 #HTTP
 
 http://docs.python-requests.org/en/latest/index.html
@@ -65,6 +68,10 @@ https://developers.google.com/edu/python/regular-expressio
 
 https://docs.python.org/2/library/pickle.html#module-pickle
 
+#String manipulation
+
+https://www.tutorialspoint.com/python/string_rstrip.htm
+
 #State
 
 http://python-3-patterns-idioms-test.readthedocs.io/en/latest/StateMachine.html
@@ -84,6 +91,7 @@ https://docs.python.org/2/library/datetime.html
 #testing
 
 http://ivory.idyll.org/articles/nose-intro.html
+
 
 -----------
 #HOWTO
