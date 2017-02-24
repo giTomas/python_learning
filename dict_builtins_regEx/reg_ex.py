@@ -108,7 +108,7 @@ print tuples
 
 for tuple in tuples:
     print tuple[0]
-    print tuple[ 1]
+    print tuple[1]
     print tuple[2]
 
 ### Greedy non greeedy

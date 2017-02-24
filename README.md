@@ -1,7 +1,7 @@
 # python_learning
 python scripts
 
-# resources - general
+# PYTHON 2.7
 
 http://www.python-course.eu/course.php
 
@@ -20,6 +20,10 @@ http://docs.python-guide.org/en/latest/
 https://www.stavros.io/tutorials/python/
 
 https://developers.google.com/edu/python/introduction
+
+# PYTHON 3
+
+http://www.diveintopython3.net/
 
 #Api
 
@@ -92,6 +96,13 @@ https://docs.python.org/2/library/datetime.html
 
 http://ivory.idyll.org/articles/nose-intro.html
 
+-----------
+#BOOKS
+-----------
+
+https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/
+
+https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377
 
 -----------
 #HOWTO
